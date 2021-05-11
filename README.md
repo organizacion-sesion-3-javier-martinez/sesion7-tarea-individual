@@ -1,4 +1,4 @@
-# sesion7-tarea-grupo
+# sesion7-tarea-individual
 
  1  Linux commands
      1  uptime. 
